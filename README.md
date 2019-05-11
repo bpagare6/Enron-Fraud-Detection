@@ -28,6 +28,7 @@ As it was one of biggest corporate fraud, that inspired me to analyze this data 
 ## Want to Contribute ...
 
 Lots of things can be done in this project further, so contributions are welcome );
-Send me the Pull Request, I will check it out !!
+
+Send me the Pull Request, I will check it out
 
 Checkout the website-version of this notebook [here](https://bpagare6.github.io/Enron-Fraud-Detection)
